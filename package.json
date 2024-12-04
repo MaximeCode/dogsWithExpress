@@ -1,0 +1,26 @@
+{
+  "name": "dogswithexpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximeCode/dogsWithExpress.git"
+  },
+  "keywords": [
+    "Dogs",
+    "Express"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximeCode/dogsWithExpress/issues"
+  },
+  "homepage": "https://github.com/MaximeCode/dogsWithExpress#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
